@@ -1,0 +1,16 @@
+[
+    {
+     "id": 1,
+     "nome": "morango",
+     "descricao":"bandeja de morango com 24 un",
+     "preco":20.0,
+     "imagem":" ../imagens/download.jpg"
+    },
+    {
+      "id":2,
+      "nome": "laranja",
+      "descricao":"saco de laranja com 12un",
+      "preco": 13.50,
+      "imagem":"../iamgens/laranja.jpg"
+    }
+]
